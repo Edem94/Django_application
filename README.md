@@ -1,3 +1,3 @@
 # My Django application
 
-Django application created using Django Framework
+Online shop application and blog application created using Django Framework
